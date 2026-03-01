@@ -1,5 +1,4 @@
-**Guess the Number Game
-**
+**Guess the Number Game**
 A simple, interactive command-line game built with Python.
 
 **Description**
